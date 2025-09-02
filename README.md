@@ -68,7 +68,3 @@ Successfully delivered VPC Flow Logs to S3.
 
 Logs can be further analyzed using Athena, CloudWatch, or SIEM tools.
 
-📷 Screenshots
-
-
-![VPC Flow Logs Setup](screenshots/vpc-flow-logs-setup.png)
