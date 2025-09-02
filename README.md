@@ -48,6 +48,9 @@ Copy code
     }
   ]
 }
+```
+
+
 6. Enable VPC Flow Logs
 Destination: S3 bucket.
 
@@ -67,4 +70,5 @@ Copy code
 Successfully delivered VPC Flow Logs to S3.
 
 Logs can be further analyzed using Athena, CloudWatch, or SIEM tools.
+
 
